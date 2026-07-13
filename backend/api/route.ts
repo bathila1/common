@@ -1,4 +1,1 @@
 // sample api
-
-
-const router =  "";
